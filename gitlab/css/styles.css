@@ -20,3 +20,10 @@ main
     height: auto;
 }
 
+.left
+{
+    float: left;
+    margin-right: .5em;
+    width: 20%;
+    height: auto;
+}
